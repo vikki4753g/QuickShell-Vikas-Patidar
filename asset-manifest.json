@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/QuickShell-Vikas-Patidar/static/css/main.5d3a9670.css",
+    "main.js": "/QuickShell-Vikas-Patidar/static/js/main.29117f84.js",
+    "index.html": "/QuickShell-Vikas-Patidar/index.html",
+    "main.5d3a9670.css.map": "/QuickShell-Vikas-Patidar/static/css/main.5d3a9670.css.map",
+    "main.29117f84.js.map": "/QuickShell-Vikas-Patidar/static/js/main.29117f84.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d3a9670.css",
+    "static/js/main.29117f84.js"
+  ]
+}
